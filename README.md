@@ -8,10 +8,18 @@ In my spare time, I am an active board member and advocate with local Arkansas n
 Last, but not least, if you've read this far: Please check your sourroundings for a functioning smoke and/or CO detector. Regardless of if you own your home, currently rent, or are a digital nomad, please be sure to spend a few extra minutes to ensure the safety of you and your loved ones. If there is a source of naturgal gas in your residence, please be aware of signs of [CO poisoning](https://www.cdc.gov/nceh/features/copoisoning/index.html).
 
 ### Repository Table of Contents
-[W231: Behind the Data ](https://github.com/autumninthecloud/Behind_the_Data_Ethics_Housing_W231.git)
-[W241: Causal Field Experiments](https://github.com/autumninthecloud/Olive_Oil_Experiment_W241.git)
-[W207: Machine Learning](https://github.com/autumninthecloud/Machine_Learning_W207.git)
+MIDS Coursework
+-[W231: Behind the Data ](https://github.com/autumninthecloud/Behind_the_Data_Ethics_Housing_W231.git)
 
+-[W241: Causal Field Experiments](https://github.com/autumninthecloud/Olive_Oil_Experiment_W241.git)
+
+-[W207: Machine Learning](https://github.com/autumninthecloud/Machine_Learning_W207.git)
+
+-[W203: Statistics](https://github.com/autumninthecloud/Causal_Study_COVID-19_W203.git)
+
+-[W200: Programming with Python](https://github.com/autumninthecloud/Game_Hangman_Python_W200.git)
+
+Personal Advocacy 
 
 <!--
 **autumninthecloud/autumninthecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
