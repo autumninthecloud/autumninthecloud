@@ -9,6 +9,7 @@ Last, but not least, if you've read this far: Please check your sourroundings fo
 
 ### Repository Table of Contents
 MIDS Coursework
+
 -[W231: Behind the Data ](https://github.com/autumninthecloud/Behind_the_Data_Ethics_Housing_W231.git)
 
 -[W241: Causal Field Experiments](https://github.com/autumninthecloud/Olive_Oil_Experiment_W241.git)
@@ -20,6 +21,8 @@ MIDS Coursework
 -[W200: Programming with Python](https://github.com/autumninthecloud/Game_Hangman_Python_W200.git)
 
 Personal Advocacy 
+
+-Coming soon...
 
 <!--
 **autumninthecloud/autumninthecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
