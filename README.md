@@ -10,6 +10,8 @@ Last, but not least, if you've read this far: Please check your sourroundings fo
 ### Repository Table of Contents
 MIDS Coursework
 
+-[W210: Capstone - Influence Maximization and Fairness in Social Networks at Scale](https://github.com/autumninthecloud/IM_w_fairness)
+
 -[W231: Behind the Data ](https://github.com/autumninthecloud/Behind_the_Data_Ethics_Housing_W231.git)
 
 -[W241: Causal Field Experiments](https://github.com/autumninthecloud/Olive_Oil_Experiment_W241.git)
