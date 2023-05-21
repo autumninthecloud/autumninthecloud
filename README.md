@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm Autumn Rains- a alumna of UC Berkeley's Master of Information and Data Science program (MIDS). I grauated in August, 2022. 
-This repository consists of my personal and group project work from some of my courses while enroleld in the program. If you'd like to connect professionally, please add me on [LinkedIn](https://www.linkedin.com/in/autumninthecloud/).
+I'm Autumn Rains, an alumna of UC Berkeley's Master of Information and Data Science program (MIDS). I grauated in August, 2022. 
+This repository consists of my personal and group project work from some of my courses while enrolled in the program. If you'd like to connect professionally, please add me on [LinkedIn](https://www.linkedin.com/in/autumninthecloud/).
 
 In my spare time, I am an active board member and advocate with local Arkansas nonprofits focused on housing issues in the state. My passion for this topic stems from a tragedy in my personal life in February, 2021. A very dear friend of mine passed away from carbon monoxide (CO) poisoning in his apartment in Little Rock, Arkansas. His family and our friends were not aware at the time that smoke or CO detectors are not required to be installed in rental units in Arkansas. I am on a mission to work with local legislators to make updates to local and state laws to improve tenant rights as well as creating Data Science and IT solutions to raise awareness of this and other related housing issues. 
 
