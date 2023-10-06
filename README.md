@@ -23,7 +23,7 @@ MIDS Coursework
 -[W200: Programming with Python](https://github.com/autumninthecloud/Game_Hangman_Python_W200.git)
 
 -[W209: Data Visualization - Tableau](https://public.tableau.com/app/profile/autumn.rains/vizzes)
-  * -[Data Viz Final project:](https://groups.ischool.berkeley.edu/foodprices/)
+  * -[Data Viz Final project: Tracking Food Prices Around the Globe](https://groups.ischool.berkeley.edu/foodprices/)
 
 Personal Advocacy 
 
