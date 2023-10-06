@@ -29,7 +29,7 @@ Personal Advocacy
 I've been researching and developing a product that utilizes AI and ML to identify building safety issues sooner. The product is called CodeQuery - check it out!
 
 -[UC Berkeley Calhacks AI/LLM hackathon - June 2023 - CodeQuery.AI](https://www.linkedin.com/posts/autumninthecloud_innovation-ai-ucberkeley-activity-7077108844899799040-MQqe?utm_source=share&utm_medium=member_desktop)
-
+  
 -[CodeQuery.AI Devpost Project Page](https://devpost.com/software/codequery-cq)
 
 <!--
