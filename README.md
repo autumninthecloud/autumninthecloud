@@ -22,9 +22,14 @@ MIDS Coursework
 
 -[W200: Programming with Python](https://github.com/autumninthecloud/Game_Hangman_Python_W200.git)
 
+-[W209: Data Visualization - Tableau](https://public.tableau.com/app/profile/autumn.rains/vizzes)
+
 Personal Advocacy 
 
--Coming soon...
+I've been researching and developing a product that utilizes AI and ML to identify building safety issues sooner. The product is called CodeQuery - check it out!
+
+-[UC Berkeley Calhacks AI/LLM hackathon - June 2023 - CodeQuery.AI](https://www.linkedin.com/posts/autumninthecloud_innovation-ai-ucberkeley-activity-7077108844899799040-MQqe?utm_source=share&utm_medium=member_desktop)
+-[CodeQuery.AI Devpost Project Page](https://devpost.com/software/codequery-cq)
 
 <!--
 **autumninthecloud/autumninthecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
