@@ -46,7 +46,7 @@ MIDS Coursework
 
 -[Data Viz Final project: Tracking Food Prices Around the Globe](https://groups.ischool.berkeley.edu/foodprices/)
 
-Personal Advocacy 
+### Personal Advocacy 
 
 I've been researching and developing a product that utilizes AI and ML to identify building safety issues sooner. The product is called CodeQuery - check it out!
 
