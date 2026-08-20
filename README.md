@@ -1,11 +1,31 @@
 ## Hi there 👋
 
-I'm Autumn Rains, an alumna of UC Berkeley's Master of Information and Data Science program (MIDS). I graduated in August, 2022. 
-This repository consists of my personal and group project work from some of my courses while enrolled in the program. If you'd like to connect professionally, please add me on [LinkedIn](https://www.linkedin.com/in/autumninthecloud/).
+*Senior Technical Product Manager | AI, Data & Industrial SaaS*
 
-In my spare time, I am an active board member and advocate with local Arkansas nonprofits focused on housing issues in the state. My passion for this topic stems from a tragedy in my personal life in February, 2021. A very dear friend of mine passed away from carbon monoxide (CO) poisoning in his apartment in Little Rock, Arkansas. His family and our friends were not aware at the time that smoke or CO detectors are not required to be installed in rental units in Arkansas. I am on a mission to work with local legislators to make updates to local and state laws to improve tenant rights as well as create Data Science and IT solutions to raise awareness of this and other related housing issues. 
+I'm a product leader specializing in AI, data products, B2B SaaS, and industrial technology, with 15+ years of experience spanning product management, data science, engineering, and commercial strategy.
 
-Last, but not least, if you've read this far: Please check your surroundings for a functioning smoke and/or CO detector. Regardless of if you own your home, currently rent, or are a digital nomad in a hotel or abroad, please be sure to spend a few extra minutes to ensure the safety of you and your loved ones. If there is a source of naturgal gas in your residence, please be aware of signs of [CO poisoning](https://www.cdc.gov/nceh/features/copoisoning/index.html).
+I currently lead product at an AI-driven industrial SaaS company, where I established the company's first product management function and lead product strategy for industrial automation, observability, and sustainability solutions. 
+
+My technical foundation comes from a Master of Information and Data Science (MIDS) from UC Berkeley, complemented by earlier experience in engineering and global product management across water, utilities, manufacturing, energy, and industrial technology.
+
+### Beyond Product & Technology
+
+I'm particularly passionate about using technology to make communities and built environments safer.
+
+My interest in safety comes from both my engineering background and my belief that technology should solve meaningful, real-world problems—not just optimize metrics. I've worked on projects focused on building-code accessibility, safety compliance, data-driven community decision-making, and public-interest technology.
+
+One example is CodeQuery, an AI assistant designed to make building codes easier to understand and improve safety compliance. I also care deeply about using data and technology to help communities make better-informed decisions about the places where people live and work.
+
+This intersection—AI + product + safety + social impact—is a particularly meaningful part of the work I want to continue building.
+
+### What I Build
+-AI and machine-learning products
+-Data analytics and decision-support platforms
+-B2B SaaS products and platforms
+-Industrial IoT and automation solutions
+-Customer-facing AI applications
+-Safety and compliance technology
+-Products that translate technical capabilities into measurable business and social outcomes
 
 ### Repository Table of Contents
 MIDS Coursework
