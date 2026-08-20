@@ -43,7 +43,8 @@ MIDS Coursework
 -[W200: Programming with Python](https://github.com/autumninthecloud/Game_Hangman_Python_W200.git)
 
 -[W209: Data Visualization - Tableau](https://public.tableau.com/app/profile/autumn.rains/vizzes)
-  * -[Data Viz Final project: Tracking Food Prices Around the Globe](https://groups.ischool.berkeley.edu/foodprices/)
+
+-[Data Viz Final project: Tracking Food Prices Around the Globe](https://groups.ischool.berkeley.edu/foodprices/)
 
 Personal Advocacy 
 
@@ -53,17 +54,4 @@ I've been researching and developing a product that utilizes AI and ML to identi
   
 -[CodeQuery.AI Devpost Project Page](https://devpost.com/software/codequery-cq)
 
-<!--
-**autumninthecloud/autumninthecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
