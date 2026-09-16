@@ -3,12 +3,11 @@
 **Senior Technical Product Manager | AI & Data Products | UC Berkeley MIDS**
 
 I'm a product leader who spends most of my time thinking about how AI
-systems make decisions that affect people's safety — and how to build
+systems make decisions that affect people's safety and how to build
 tools that keep them honest. 15+ years across product, data science, and
 engineering got me here, by way of a Master of Information and Data
 Science (MIDS) from UC Berkeley and an earlier life in industrial
-engineering (water, utilities, manufacturing — the unglamorous stuff that
-keeps the lights on).
+markets (water, utilities, energy, manufacturing) with a bachelor's in Chemical Engineering.
 
 ### What I'm working on
 
