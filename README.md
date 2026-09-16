@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Senior Technical Product Manager | AI, Data & Industrial SaaS**
+**Senior Technical Product Manager | AI & Data Products | UC Berkeley MIDS**
 
 I'm a product leader who spends most of my time thinking about how AI
 systems make decisions that affect people's safety — and how to build
